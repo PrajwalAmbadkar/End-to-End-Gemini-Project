@@ -1,1 +1,1 @@
-Developed a real-time conversational chatbot utilizing the Gemini 1.5 Flash API, enabling dynamic interactions and maintaining chat history. Implemented the chatbot using Streamlit for a user-friendly interface."
+" Developed a real-time conversational chatbot utilizing the Gemini 1.5 Flash API, enabling dynamic interactions and maintaining chat history. Implemented the chatbot using Streamlit for a user-friendly interface."
